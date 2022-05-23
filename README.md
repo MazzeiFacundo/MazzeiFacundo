@@ -1,4 +1,4 @@
-### Hi there 👋, Hello There! I'm Facundo!
+### Hello There! 👋 I'm Facundo!
 #### A JavaScript Full Stack developer!
 ![A JavaScript Full Stack developer!](https://blog.soyhenry.com/content/images/2021/02/HEADER-BLOG-NEGRO-01.jpg)
 
