@@ -11,7 +11,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 📫 How to reach me:  Contact me via LinkedIn or Gmail! 
 
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png)' alt='github' height='40'>](https://github.com/MazzeiFacundo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/facundomazzei/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/facundomazzei/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MazzeiFacundo&show_icons=true&count_private=true)  
 
