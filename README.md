@@ -6,7 +6,7 @@ I'm a JavaScript full stack developer and former HENRY student!
 
 "Code to Learn, Learn to Code"
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Javascript / ReactJs / NodeJs / Sequelize / SQL / CSS / HTML
 
 - 📫 How to reach me:  Contact me via LinkedIn or Gmail! 
 
