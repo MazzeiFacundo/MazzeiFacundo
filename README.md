@@ -16,5 +16,4 @@ Skills: Javascript / ReactJs / NodeJs / Sequelize / SQL / CSS / HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MazzeiFacundo&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MazzeiFacundo)  
 
